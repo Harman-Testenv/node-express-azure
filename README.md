@@ -4,8 +4,7 @@
 
 This is a Node and Express web application used to demonstrate CI/CD with Azure DevOps. You can clone this repo and use it within Azure DevOps to build, test, and release to an Azure App Service web app.
 
-https://dev.azure.com/HarmanCloudOps/Pipeline-Appservice/_apis/build/status/Harman-Testenv.node-express-azure?branchName=master
-
+[![Build Status](https://dev.azure.com/HarmanCloudOps/Pipeline-Appservice/_apis/build/status/Harman-Testenv.node-express-azure?branchName=master)](https://dev.azure.com/HarmanCloudOps/Pipeline-Appservice/_build/latest?definitionId=1&branchName=master)
 ## Running and Testing Locally:
 
 You can use these commands to install, test, and run the app locally. (Not Required)
